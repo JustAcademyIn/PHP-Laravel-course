@@ -12,19 +12,25 @@ Here is a list of some popular PHP Laravel course providers in India along with 
 ### Browse their course link : https://www.justacademy.co/all-courses 
 ### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 
-### 2. Eduonix Learning Solutions: Known for its online courses, Eduonix offers several php laravel course catering to beginners as well as experienced developers. Their courses are structured with video tutorials, quizzes, and assignments, providing a well-rounded learning experience.
+### 2. Eduonix Learning Solutions: 
+Known for its online courses, Eduonix offers several php laravel course catering to beginners as well as experienced developers. Their courses are structured with video tutorials, quizzes, and assignments, providing a well-rounded learning experience.
 
-### 3. Laravel Academy: Laravel Academy provides both online and offline training programs on Laravel development. Their php laravel course are designed by experienced developers and updated regularly to keep pace with the latest trends in Laravel development.
+### 3. Laravel Academy: 
+Laravel Academy provides both online and offline training programs on Laravel development. Their php laravel course are designed by experienced developers and updated regularly to keep pace with the latest trends in Laravel development.
 
-### 4. Zeolearn: Zeolearn offers instructor-led training programs on PHP Laravel along with other web development technologies. They provide live sessions, hands-on exercises, and interactive learning modules to help students grasp Laravel concepts effectively.
+### 4. Zeolearn: 
+Zeolearn offers instructor-led training programs on PHP Laravel along with other web development technologies. They provide live sessions, hands-on exercises, and interactive learning modules to help students grasp Laravel concepts effectively.
 
-### 5. Udemy: A popular online learning platform, Udemy hosts numerous php laravel course created by instructors from around the world. These courses vary in terms of content, depth, and teaching style, allowing learners to choose according to their preferences.
+### 5. Udemy: 
+A popular online learning platform, Udemy hosts numerous php laravel course created by instructors from around the world. These courses vary in terms of content, depth, and teaching style, allowing learners to choose according to their preferences.
 
 ### 6. Simplilearn: Simplilearn offers a range of courses in web development, including php laravel course. Their courses are designed to cater to different skill levels, from beginners to advanced developers. Simplilearn also provides certification upon course completion.
 
-### 7. Codecademy: Codecademy offers interactive online courses on various programming languages and frameworks, including PHP Laravel. Their courses feature hands-on coding exercises and projects, making it an engaging platform for learning Laravel development.
+### 7. Codecademy: 
+Codecademy offers interactive online courses on various programming languages and frameworks, including PHP Laravel. Their courses feature hands-on coding exercises and projects, making it an engaging platform for learning Laravel development.
 
-### 8. Pluralsight: Pluralsight provides on-demand courses on Laravel development along with other technologies. Their courses are structured with video tutorials, assessments, and practical exercises, enabling learners to acquire Laravel skills at their own pace.
+### 8. Pluralsight: 
+Pluralsight provides on-demand courses on Laravel development along with other technologies. Their courses are structured with video tutorials, assessments, and practical exercises, enabling learners to acquire Laravel skills at their own pace.
 
 These are just a few examples of php laravel course providers in India. It's essential to research each provider thoroughly to ensure that their courses align with your learning goals and preferences. Additionally, consider factors such as course content, instructor expertise, student reviews, and support services before making a decision.
 
